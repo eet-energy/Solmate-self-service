@@ -10,4 +10,4 @@ Folgende Informationen planen wir zur Verfügung stellen:
 
 Weiters planen wir nach Abschluss des Insolvenzverfahrens von allen SolMates die Zugangssperren entfernen. So haben Kunden dann auch die Möglichkeit den SolMate software-seitig zu analysieren, repariert oder auch zu erweitern..
 
-Probleme oder Fragen können in unserem ["Community Forum"](https://github.com/eet-energy/Solmate-self-service/discussions) besprochen werden.
+Probleme oder Fragen können in unserem [Community Forum](https://github.com/eet-energy/Solmate-self-service/discussions) besprochen werden.
